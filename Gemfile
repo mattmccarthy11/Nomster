@@ -9,6 +9,7 @@ gem 'sass-rails'
 
 
 
+gem 'will_paginate'
 
 
 # Use postgresql as the database for Active Record
