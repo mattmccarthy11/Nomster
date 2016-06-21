@@ -36,10 +36,9 @@
 <%= yield %>
 
 
-  <div class="digg_pagination text-center"> 
-    <%= will_paginate @places %>
-
-  </div>
+   <div class="digg_pagination text-center"> 
+     <%# this is causing a error in the new controller.  will_paginate @places %>
+  </div> 
   
 
 </body>
