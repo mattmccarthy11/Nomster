@@ -11,6 +11,7 @@ gem 'sass-rails'
 
 gem 'will_paginate'
 gem 'simple_form'
+gem 'devise', '>= 3.2.4'
 
 
 # Use postgresql as the database for Active Record
